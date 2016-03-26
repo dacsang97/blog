@@ -1,9 +1,8 @@
 # Site settings
 title: My Blog
-email: coolwebconfs@gmail.com
+email: dacsang97@gmail.com
 description: My simple blog.
-baseurl: ""
-url: ""
+baseurl: "/blogs"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,7 +18,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
+      author: "SangND" # Set default author name
       categories: "cats"
       layout: "post"
       comments: true
