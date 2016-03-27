@@ -2,7 +2,7 @@
 title: My Blog
 email: dacsang97@gmail.com
 description: My simple blog.
-baseurl: "/blog23"
+baseurl: "/blog"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
