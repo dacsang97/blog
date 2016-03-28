@@ -1,3 +1,3 @@
-# confs-theme
+# SangND Blog
 
-The theme files for the WebConfs blog.
+My Blog base on Jekyll.
